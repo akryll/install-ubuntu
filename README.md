@@ -1,4 +1,4 @@
-This is my personal reminder of what to do with fresh install of Ubuntu
+This is my personal reminder on what to do with fresh install of Ubuntu
 
 ##1 Sublime text
 ###1.1 Arduino-like IDE
